@@ -1,0 +1,77 @@
+body {
+  padding-top: 50px;
+}
+
+canvas {
+  margin-top: 20px;
+  border: 1px solid gray;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.dont-select {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.sec-nav-bar {
+  padding: 20px 0px;
+  color: #777;
+  background-color: #fafafa;
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #e5e5e5;
+  margin-top: 20px;
+  @media (max-width: 768px) {
+    .text-primary {
+      display: block;
+    }
+  }
+}
+
+.settings {
+  margin-top: 20px;
+  font-size: 12px;
+  background-color: #fafafa;
+  box-shadow: 1px 2px 6px #888888;
+}
+
+.settings-separator {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#BC {
+  width: 100%;
+  margin-top: 5px;
+}
+
+#BC .slider-selection {
+  background: gray;
+}
+
+#BC .slider-handle {
+  border-bottom-color: blue;
+}
+
+#select-aco {
+  padding: 5px 10px;
+  height: 31px;
+}
+
+.navbar-custom {
+  background-color: #fff;
+  border-color: #fff;
+}
+
+html {
+  font: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
