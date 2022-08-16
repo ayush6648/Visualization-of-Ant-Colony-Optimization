@@ -7,11 +7,12 @@ Ant Colony Optimization Simulator developed using HTML, CSS, Bootstrap, JavaScri
 <br/>
 <br/>
 
-How to Use:
-This project implement the Ant System, showing a animated view about the Ant Colony Optimization. To use it, you need to:
-
+<h3>How to Use:</h3>
+To use it, you need to:
+<br/>
 Open index.html in browser.
-
+<br/>
 Click on "New Node" to add new nodes(ants).
-
+<br/>
 Click in "Play" and enjoy it!
+<br/>
